@@ -31,7 +31,7 @@ I work on building predictive models, analyzing data to extract insights, and co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarbelshamy&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarbelshamy&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
 ## 🎯 LeetCode Heatmap
 
